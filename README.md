@@ -1,4 +1,4 @@
-<h1 align= center><b>⭐️ Altronix Music Bot⭐️</b></h1>
+<h1 align= center><b>⭐️ SUKHPAL MUSIC⭐️</b></h1>
 
 
 <p align="center">
