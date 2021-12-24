@@ -1,9 +1,9 @@
 {
-  "name": "Altronix Music",
-  "description": "Open-Source bot to play songs in your Telegram's Group Voice Chat. Powered by @AltronixBots.",
-   "logo": "https://telegra.ph/file/f92957a74ed573b1f8e2b.jpg",
+  "name": "SUKHI Music",
+  "description": "Open-Source bot to play songs in your Telegram's Group Voice Chat. Powered by @MAMBA_X_SUPPORT.",
+   "logo": "https://telegra.ph/file/145436dd8dc78b9f44828.jpg",
    "keywords": ["music", "voicechat", "telegram"],
-  "repository": "https://github.com/D3stroyer-xD/AltronixMusicBot",
+  "repository": "https://github.com/SUKHPAL443/kendamusic",
   "stack": "container",
   "env": {
     "SESSION_NAME": {
@@ -16,7 +16,7 @@
       "value": ""
     },
     "BOT_USERNAME": {
-      "description": "Put Bot Username Without '@' Ex:- AltronixMusicBot",
+      "description": "Put Bot Username Without '@' Ex:- SUKHIMUSIC_GBOT",
       "required": true,
       "value": ""
     },
