@@ -17,6 +17,7 @@
     <a href="https://t.me/botfather"> Telegram Bot Token </a> |
 </p>
 
+[![Deploy on Railway](https://railway.app/button.svg)](https://railway.app/new/template?template=https://github.com/SUKHPAL443/SUKHMUSIC)
 
 <h2 align="center">
     Deployment Methods
