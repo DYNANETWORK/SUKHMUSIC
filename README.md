@@ -16,9 +16,9 @@
     <a href="https://docs.pyrogram.org/intro/setup#api-keys"> Telegram API Key </a> |
     <a href="https://t.me/botfather"> Telegram Bot Token </a> |
 </p>
-<p align="center">
+
 [![Deploy on Railway](https://railway.app/button.svg)](https://railway.app/new/template?template=https://github.com/SUKHPAL443/SUKHMUSIC)
-</p>
+
 <h2 align="center">
     Deployment Methods
 </h2>
